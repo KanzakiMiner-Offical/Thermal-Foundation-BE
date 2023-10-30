@@ -1,0 +1,436 @@
+{
+   "properties": {
+      "enabled": {
+         "name": {
+            "en": "Enable mod",
+            "ru": "Включить мод"
+         }
+      },
+      "gen.copper": {
+         "name": {
+            "en": "Copper Ore",
+            "ru": "Медная руда"
+         },
+         "collapsible": true
+      },
+      "gen.copper.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.copper.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.copper.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.copper.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.copper.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.tin": {
+         "name": {
+            "en": "Tin Ore",
+            "ru": "Оловянная руда"
+         },
+         "collapsible": true
+      },
+      "gen.tin.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.tin.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.tin.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.tin.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.tin.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.lead": {
+         "name": {
+            "en": "Lead Ore",
+            "ru": "Свинцовая руда"
+         },
+         "collapsible": true
+      },
+      "gen.lead.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.lead.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.lead.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.lead.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.lead.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.silver": {
+         "name": {
+            "en": "Silver Ore",
+            "ru": "Серебряная руда"
+         },
+         "collapsible": true
+      },
+      "gen.silver.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.silver.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.silver.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.silver.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.silver.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.nickel": {
+         "name": {
+            "en": "Nickel Ore",
+            "ru": "Никелевая руда"
+         },
+         "collapsible": true
+      },
+      "gen.nickel.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.nickel.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.nickel.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.nickel.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.nickel.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.sulfur": {
+         "name": {
+            "en": "Sulfur Ore",
+            "ru": "Серная руда"
+         },
+         "collapsible": true
+      },
+      "gen.sulfur.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.sulfur.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.sulfur.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.sulfur.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.sulfur.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.cinnabar": {
+         "name": {
+            "en": "Cinnabar Ore",
+            "ru": "Киноварная руда"
+         },
+         "collapsible": true
+      },
+      "gen.cinnabar.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.cinnabar.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.cinnabar.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.cinnabar.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.cinnabar.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.niter": {
+         "name": {
+            "en": "Niter Ore",
+            "ru": "Селитровая руда"
+         },
+         "collapsible": true
+      },
+      "gen.niter.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.niter.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.niter.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.niter.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.niter.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.sapphire": {
+         "name": {
+            "en": "Sapphire ore",
+            "ru": "Сапфировая руда"
+         },
+         "collapsible": true
+      },
+      "gen.sapphire.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.sapphire.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.sapphire.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.sapphire.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.sapphire.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.ruby": {
+         "name": {
+            "en": "Ruby Ore",
+            "ru": "Рубиновая руда"
+         },
+         "collapsible": true
+      },
+      "gen.ruby.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.ruby.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.ruby.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.ruby.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.ruby.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.apatite": {
+         "name": {
+            "en": "Apatite Ore",
+            "ru": "Апатитовая руда"
+         },
+         "collapsible": true
+      },
+      "gen.apatite.enabled": {
+         "name": {
+            "en": "Enabled",
+            "ru": "Включена"
+         }
+      },
+      "gen.apatite.inChunk": {
+         "name": {
+            "en": "Vein Count",
+            "ru": "Количество жил"
+         }
+      },
+      "gen.apatite.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      },
+      "gen.apatite.minY": {
+         "name": {
+            "en": "Min height",
+            "ru": "Минимальная высота"
+         }
+      },
+      "gen.apatite.maxY": {
+         "name": {
+            "en": "Max Height",
+            "ru": "Максимальная высота"
+         }
+      },
+      "gen.oilSand": {
+         "name": {
+            "en": "Oil Sand",
+            "ru": "Битумный песок"
+         },
+         "collapsible": true
+      },
+      "gen.oilSand.chance": {
+         "name": {
+            "en": "Chance",
+            "ru": "Шанс"
+         }
+      },
+      "gen.oilSand.size": {
+         "name": {
+            "en": "Vein size",
+            "ru": "Размер жилы"
+         }
+      }
+   }
+}

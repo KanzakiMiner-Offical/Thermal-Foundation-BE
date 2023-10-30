@@ -1,0 +1,87 @@
+{
+   "enabled": true,
+   "gen": {
+      "copper": {
+         "enabled": true,
+         "maxY": 100,
+         "inChunk": 8,
+         "minY": 40,
+         "size": 8
+      },
+      "tin": {
+         "enabled": true,
+         "maxY": 60,
+         "inChunk": 25,
+         "minY": 20,
+         "size": 6
+      },
+      "lead": {
+         "enabled": true,
+         "maxY": 32,
+         "inChunk": 8,
+         "minY": 0,
+         "size": 4
+      },
+      "silver": {
+         "enabled": true,
+         "maxY": 32,
+         "inChunk": 4,
+         "minY": 0,
+         "size": 8
+      },
+      "nickel": {
+         "enabled": true,
+         "maxY": 128,
+         "inChunk": 3,
+         "minY": 1,
+         "size": 6
+      },
+      "sulfur": {
+         "enabled": true,
+         "maxY": 128,
+         "inChunk": 8,
+         "minY": 0,
+         "size": 16
+      },
+      "cinnabar": {
+         "enabled": true,
+         "maxY": 128,
+         "inChunk": 4,
+         "minY": 0,
+         "size": 8
+      },
+      "niter": {
+         "enabled ": true,
+         "maxY": 128,
+         "inChunk": 4,
+         "minY": 0,
+         "size": 8
+      },
+      "sapphire": {
+         "enabled": true,
+         "maxY": 128,
+         "inChunk": 5,
+         "minY": 0,
+         "size": 4
+      },
+      "ruby": {
+         "enabled": true,
+         "maxY": 64,
+         "inChunk": 5,
+         "minY": 0,
+         "size": 4
+      },
+      "apatite": {
+         "enabled": true,
+         "maxY": 64,
+         "inChunk": 7,
+         "minY": 0,
+         "size": 5
+      },
+      "oilSand": {
+         "enabled": true,
+         "size": 16,
+         "chance": 0.4
+      }
+   }
+}
